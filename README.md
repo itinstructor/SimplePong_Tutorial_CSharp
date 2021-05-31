@@ -1,7 +1,9 @@
 # Visual C# Simple Pong
-A simple pong game written in Visual C# as a game tutorial for a introductory C# programming class.
+A simple pong game originally written in 2018 in Visual C# as a game tutorial for a introductory C# programming class.
 
-The Tutorial folder contains the tutorial.
+This version is built with Visual Studio Community 2019.
+
+The Tutorial folder contains the tutorial in pdf format.
 
 ### Changes
 - 05/31/2021: Initial commit
